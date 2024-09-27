@@ -60,7 +60,7 @@ class _LoginScreenState extends State<LoginScreen> {
             style: ElevatedButton.styleFrom(
               backgroundColor: Colors.purple,
             ),
-            onPressed: ()=> print("clicked"),
+            onPressed: ()=> print("button clicked"),
           )
         ],
       ),
