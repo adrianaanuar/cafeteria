@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760852370907",
+    "project_id": "cafeteriaapp-70de9",
+    "storage_bucket": "cafeteriaapp-70de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760852370907:android:288e5c7338a03769e6c3fe",
+        "android_client_info": {
+          "package_name": "com.cafeteriafyp.sellersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtDQTKSIHR-4RkhmerZhzT9eyrEcoAXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
